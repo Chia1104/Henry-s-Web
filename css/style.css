@@ -50,6 +50,10 @@ header p {
 	margin-right: 5px;
 }
 
+.red {
+	color: red;
+}
+
 .site-nav a {
 	display: block;
 	color: #617140;
@@ -75,6 +79,9 @@ header p {
 	float: left;
 	padding-right: 40px;
 	box-sizing: border-box;
+	font-size: 16px;
+	line-height: 30px;
+	text-indent: 32px;
 }
 
 /*Aside Style*/
@@ -85,6 +92,10 @@ header p {
 	padding: 20px 40px;
 	box-sizing: border-box;
 	font-size: 85%;
+}
+
+.avatar {
+	width: 100%;
 }
 
 /*Footer Style*/
